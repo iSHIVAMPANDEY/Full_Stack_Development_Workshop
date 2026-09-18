@@ -1,0 +1,7 @@
+Name: Rahul
+Roll Number: 101
+Branch: CSE
+Semester: 3
+Subject: Full Stack Development
+Marks: 85
+Attendance: 92%
