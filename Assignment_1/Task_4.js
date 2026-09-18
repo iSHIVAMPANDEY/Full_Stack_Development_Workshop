@@ -1,4 +1,4 @@
-// Task 4 - Student Activity Tracker
+// Task 4 - Student Activity Trackr
 
 const EventEmitter = require('events');
 
